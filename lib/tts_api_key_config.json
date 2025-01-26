@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lang-through-voice",
+  "private_key_id": "c50dc0b92c9f6f11a886aabd119d89b079ca30c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDI4JGA0GbwwnMM\nVwTPWDnzKfFNA4qCBzRnuuVbI/E+1j9McX625jmgKx+MqanZnXZFwcFEdHh4YpwW\n1X3B83IkTgkdjDnOrmFwJudDzuHBAa8Gzovg2tUk47eDsxBy08pqJawflPp/VOYB\nZmAGzcSiF/1c4zvoHNVEpu5Ku3C9JbjyiB0mrkDF9uVT2ApBz190W3dcnRGPMmiv\nzEJP3sOEMcUxOr4aeF0cOp2GShvGmVajHO1HDnLfBvRAvMq9h9dFEcFn8yooN15h\nvnGc0qCnd4FPrTqqu+OlYffFS1t23VbCYsJZ4GYWFEvY6dHopv42HYsxfTDBH8+o\nY9nWyMOdAgMBAAECggEAAKhLM6q9rTe0b7KYUlPg/wPHN8c2RGGDpBWFnrvuTNJs\ndipcm2wDThvvZClZjh2zMxi+QQcP88hkmsPtBxWv7QjRr+r5q+J6+EEDbN7ZYMKw\nRYOjbonRQh0DJ7dGxQaTiuahj66kI+JpG78qGjdBRzFajH53SMKPVuOZZTNYKrdT\nKncaJs6MAiS4bm3oqLnSjkJOjoU4DYeIQ6tF0wefKmgJkyHC8t9E3OFGC38AqJtp\nAubIDuD/Tv/nYu1iLgUMugdIGFxnvo5vxAZA4Qk6v3iU7LpD40W96H5qvDBXzP3g\nDPAFpYUkmATTWODXTicWVTShqFwZp+4ZlqqPNRWH8QKBgQDvQL4OOU4CvDCO7MWU\nWKnNxxjWD1wSq5MEeqLoDcq2lOCDcJMSLlNYPSZJJGHgNhf3/zY5dIKXAEzQZFZC\nA3e4spZ4UWp5id1FF9S2WZtVtfasoZy1AGH9LRPYfcWQzGI6FSKFvrBwxlOsN5fI\nrhQAUaNCDutHI3zC8Hs1rX9+DQKBgQDW8CiWeXrbvYVeMgL3W2dxeM3PTJ4v/7ci\nY1OLor83ltfORmnVISCjQylKQ7iGpaBjwA2PN8pkeMm5feMGoUCRB5jiTZEMF/Es\nM9nwFULSTf8vp5asDeDkpUGuzU7QRu4OQvxXGtQ4+5Bf8Fmvpg698Qkz218OJWsD\njQ+teqKH0QKBgQDXxooiBeinatZYcI4ZJoWuQtvRYvTlGbx0E66MnrOuS0LZCFR7\n1y/vqua2nItxTRf84D0lQEDusqSUZYmt67az6szuIm9mwcG/qKh89P+1I3EfbHoK\nfBfj4B2/6F6gItSMEbea68nxS8z2ywSnRuhfCUG2OAJVnFnO7lgQpzMOmQKBgQCu\nzhr0ZlAZLoWtGhd3fQsgKhOYKMPuXZZfjVCBHBdP6ooQ5Qtlns+geBq4n2MPftx2\nw9dDRyh/lgzZoxxkY/jS+s7IHjV9FGu8e18f9uqlh3GnHDFaNN9WlWBZ/fe/RDCP\nwMLhRJycy1ub6ynFxNPwfnvxhNRF+QCTnsHFYRuWQQKBgQDsLBtM5AuZtYNenr43\nGUF12SubJ9vWOJlUOpwu9N7hdbBX+BVG7uY+Kw/XS0OXW580Ayhmlw/gs96K+q7S\nj+Fqcy6xlSiTemIohk1vUBUazQUCaJwjFZI1IMAMa886N4oiVzAbqBp7Otccsmjs\nyTTj8IMqgreI8w0UtK7z/73cxA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "violet-hackett@lang-through-voice.iam.gserviceaccount.com",
+  "client_id": "104213562485366057368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/violet-hackett%40lang-through-voice.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
